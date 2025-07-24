@@ -1,9 +1,8 @@
 const CACHE_NAME = 'my-site-cache-v1';
 const urlsToCache = [
-  '/',
+  '/popendus228.github.io/',
   '/index.html',
-  '/styles.css',
-  '/script.js',
+  'manifest.json',
   '/icons/icon-192x192.png',
   '/icons/icon-512x512.png'
 ];
