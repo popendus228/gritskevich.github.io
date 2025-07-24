@@ -1,4 +1,5 @@
 const CACHE_NAME = 'my-site-cache-v1';
+const BASE_PATH = '/gritskevich.github.io/';
 const urlsToCache = [
   '/popendus228.github.io/',
   '/index.html',
