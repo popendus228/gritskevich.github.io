@@ -4,6 +4,7 @@ const urlsToCache = [
   '/popendus228.github.io/',
   '/gritskevich.github.io/index.html',
   'manifest.json',
+  'favicon.ico',
   '/icons/icon-192x192.png',
   '/icons/icon-512x512.png'
 ];
